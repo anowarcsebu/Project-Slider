@@ -1,0 +1,17 @@
+{
+  "name": "carousel-slider",
+  "version": "1.0.0",
+  "description": "Carousel-Slider",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "scss": "node-sass -w docs/scss/ -o docs/css/ --recursive "
+  },
+  "author": "Anowar",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
